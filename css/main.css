@@ -1,3 +1,21 @@
+:root {
+  /* color */
+  --main-green: #669900;
+  --dark-grey: #2c2a29;
+  --base-grey: #333;
+  --base-white: #f6f5ef;
+
+  --footer-color: #272727;
+
+  --btn-brown: #592b18;
+  --btn-gold: #d9aa8a;
+
+  --border-radius: 5px;
+  --animation-duration: 300ms;
+
+  --font-small: 12px;
+}
+
 /* visual */
 .visual {
   margin-top: 120px;
