@@ -1,2 +1,14 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+스타벅스 클론코딩
+https://github.com/ParkYoungWoong/starbucks-vanilla-app
+
+[CDN]
+CSS RESET : https://www.jsdelivr.com/package/npm/reset-css
+GSAP : https://cdnjs.com/libraries/gsap
+LODASH : https://cdnjs.com/libraries/lodash.js
+SCROLL MAGIC : https://cdnjs.com/libraries/ScrollMagic
+
+[API]
+YOUTUBE IFRAME : https://developers.google.com/youtube/iframe_api_reference
